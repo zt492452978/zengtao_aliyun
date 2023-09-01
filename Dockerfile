@@ -1,0 +1,1 @@
+From k8s.io/ingress-nginx/controller:v1.8.1
